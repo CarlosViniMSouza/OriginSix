@@ -4,4 +4,4 @@
 
 #### _Melhorias a caminho!_
 
-![Preview](https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png?raw=true)
+![Preview](assets\fotos\pg1.svg)
