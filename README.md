@@ -4,4 +4,4 @@
 
 #### _Melhorias a caminho!_
 
-![Preview](assets\fotos\pg1.svg)
+![Preview](assets\fotos\Apresentation.jpg)
